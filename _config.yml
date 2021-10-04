@@ -1,2 +1,4 @@
 name: title remove
 title: null
+
+theme: jekyll-theme-minimal
