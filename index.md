@@ -28,6 +28,11 @@ Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
 
 ## Publication
+<details open>
+<summary>I automatically open</summary>
+<br>
+Waaa, you see me. I thought I would be hidden ;p .
+</details>
 ## Presentation
 *Finding Keys to the Peano Curve*, Mathematics on the Northern Plain, Minnesota, April 2021\
 **Khang V. Huynh**\
