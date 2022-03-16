@@ -15,7 +15,7 @@ Paul D. Humke, **Khang V. Huynh**
 Paul D. Humke, **Khang V. Huynh**
 3. Cloud-powered PDC Computations For a Runestone Interactive Textbook( [Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing) )\
 Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas
-4. Senior Capstone \
+4. Computer vision application in Education\
 **Khang V. Huynh**, Luke Malek
 5. Research on Multi Label Text Classification on Imbalanced Data\
 **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
