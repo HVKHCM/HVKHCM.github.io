@@ -9,6 +9,7 @@ Email: huynh6 at stolaf.edu
 ## Research Experience
 I have contributed to five different research project and one industrial project. Below are the information about these research projects
 1. Finding Keys to the Peano Curve ( [PDF](https://drive.google.com/file/d/10YWkhUI3fIC7bTLqm8lb4VqY-W4mV4Z5/view?usp=sharing) )
+Paul D. Humke, *Khang V. Huynh*
 ## Publication
 ## Presentation
 ## Teaching Experience
