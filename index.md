@@ -12,6 +12,11 @@ I have contributed to five different research project and one industrial project
 
 * *Finding Keys to the Peano Curve*\
 Paul D. Humke, **Khang V. Huynh** \
+<details close>
+<summary>Abstract</summary>
+<br>
+The purpose of this paper is to give a fairly complete analysis of Peano’s space filling curve. We begin with a synopsis of the history of the curve, but then begin an analysis using the geometric methods that Hilbert developed. We show that this inherent geometry can be viewed as governed by the action of the Klein Four Group and continue to give a rather full arithmetization of the Peano Curve.
+</details>
 [PDF](https://drive.google.com/file/d/10YWkhUI3fIC7bTLqm8lb4VqY-W4mV4Z5/view?usp=sharing)
 
 * *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
@@ -28,11 +33,7 @@ Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
 
 ## Publication
-<details close>
-<summary>I automatically open</summary>
-<br>
-Waaa, you see me. I thought I would be hidden ;p .
-</details>
+
 ## Presentation
 *Finding Keys to the Peano Curve*, Mathematics on the Northern Plain, Minnesota, April 2021\
 **Khang V. Huynh**\
