@@ -20,7 +20,7 @@ Richard A. Brown, **Khang Vo Huynh**, Tanaka Khondowe, George Kokalas
 **Khang V. Huynh**, Luke Malek
 
 *Industrial Project*\
-Research on Multi Label Text Classification on Imbalanced Data
+Research on Multi Label Text Classification on Imbalanced Data\
 **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
 
 ## Publication
