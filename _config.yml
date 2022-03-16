@@ -1,7 +1,6 @@
+theme: jekyll-theme-minimal
 name: title remove
 title: false
-
-theme: jekyll-theme-minimal
 title: Khang Vo Huynh
 description: Picture taken by younger brother
 logo: https://github.com/HVKHCM/HVKHCM.github.io/blob/main/Profile-picture.jpg?raw=true
