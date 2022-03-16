@@ -9,12 +9,14 @@ Email: huynh6 at stolaf.edu
 ## Research Experience
 I have contributed to five different research project and one industrial project. Below are the information about these projects
 
-1. Finding Keys to the Peano Curve ( [PDF](https://drive.google.com/file/d/10YWkhUI3fIC7bTLqm8lb4VqY-W4mV4Z5/view?usp=sharing) )\
-Paul D. Humke, **Khang V. Huynh**
+1. Finding Keys to the Peano Curve \
+Paul D. Humke, **Khang V. Huynh** \
+[PDF](https://drive.google.com/file/d/10YWkhUI3fIC7bTLqm8lb4VqY-W4mV4Z5/view?usp=sharing)
 2. Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>\
 Paul D. Humke, **Khang V. Huynh**
-3. Cloud-powered PDC Computations For a Runestone Interactive Textbook( [Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing) )\
-Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas
+3. Cloud-powered PDC Computations For a Runestone Interactive Textbook\
+Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
+[Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing)
 4. Computer vision application in Education\
 **Khang V. Huynh**, Luke Malek
 5. Research on Multi Label Text Classification on Imbalanced Data\
@@ -22,4 +24,11 @@ Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas
 
 ## Publication
 ## Presentation
+*Finding Keys to the Peano Curve*, Mathematics on the Northern Plain, Minnesota, April 2021\
+**Khang V. Huynh**
+[Slides](https://drive.google.com/file/d/1AVfwB14aqtYaxQc5NCaBlzK3A7W91rxW/view?usp=sharing)
 ## Teaching Experience
+1. CSCI 353: Analysis of Algorithm, Spring 2022\
+*Teaching assistant*
+2. CSCI 241: Hardware Design, Fall 2021\
+*Teaching assistant*
