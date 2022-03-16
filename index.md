@@ -20,7 +20,7 @@ Paul D. Humke, **Khang V. Huynh**
 Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 [Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing)
 
-4. *Computer vision application in Education*\
+4. *Computer Vision Application in Education*\
 **Khang V. Huynh**, Luke Malek
 
 5. *Research on Multi Label Text Classification on Imbalanced Data*\
