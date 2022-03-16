@@ -5,5 +5,5 @@ Hello, my name is Khang Vo Huynh and I am a junior international student from Vi
 For more information, here are some additional documents: [CV](https://drive.google.com/file/d/1NNBnl8Yg-nTZJ7d_OFaOqXjK8qzWjeaV/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/khang-huynh-353242208/)
 ## Research Experience
 ## Publication
-## Presentation and Poster
-
+## Presentation
+## Teaching Experience
