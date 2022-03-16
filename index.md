@@ -13,7 +13,7 @@ I have contributed to five different research project and one industrial project
 Paul D. Humke, **Khang V. Huynh**
 2. Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>\
 Paul D. Humke, **Khang V. Huynh**
-3. Cloud-powered PDC Computations For a Runestone Interactive Textbook( [Poster](https://drive.google.com/drive/u/0/my-drive) )\
+3. Cloud-powered PDC Computations For a Runestone Interactive Textbook( [Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing) )\
 Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas
 4. Senior Capstone \
 **Khang V. Huynh**, Luke Malek
