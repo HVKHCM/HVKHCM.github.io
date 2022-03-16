@@ -29,7 +29,7 @@ Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 ## Publication
 ## Presentation
 *Finding Keys to the Peano Curve*, Mathematics on the Northern Plain, Minnesota, April 2021\
-**Khang V. Huynh**
+**Khang V. Huynh**\
 [Slides](https://drive.google.com/file/d/1AVfwB14aqtYaxQc5NCaBlzK3A7W91rxW/view?usp=sharing)
 ## Teaching Experience
 1. CSCI 353: Analysis of Algorithm, Spring 2022\
