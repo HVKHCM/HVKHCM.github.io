@@ -12,9 +12,9 @@ I have contributed to five different research project and one industrial project
 1. Finding Keys to the Peano Curve ( [PDF](https://drive.google.com/file/d/10YWkhUI3fIC7bTLqm8lb4VqY-W4mV4Z5/view?usp=sharing) )\
 Paul D. Humke, **Khang V. Huynh**
 2. Generalized Klein-4 Groups Generate Peano Curves in R^n\
-Paul D. Humke, **Khang Vo Huynh**
+Paul D. Humke, **Khang V. Huynh**
 3. Cloud-powered PDC Computations For a Runestone Interactive Textbook\
-Richard A. Brown, **Khang Vo Huynh**, Tanaka Khondowe, George Kokalas
+Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas
 4. Senior Capstone \
 **Khang V. Huynh**, Luke Malek
 5. Research on Multi Label Text Classification on Imbalanced Data\
