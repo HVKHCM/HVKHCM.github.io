@@ -28,7 +28,7 @@ Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
 
 ## Publication
-<details open>
+<details close>
 <summary>I automatically open</summary>
 <br>
 Waaa, you see me. I thought I would be hidden ;p .
