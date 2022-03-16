@@ -4,7 +4,7 @@ Hello, my name is Khang Vo Huynh and I am a junior international student from Vi
 
 For more information, here are some additional documents: [CV](https://drive.google.com/file/d/1NNBnl8Yg-nTZJ7d_OFaOqXjK8qzWjeaV/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/khang-huynh-353242208/)
 
-You can also contact me at [huynh6 at stolaf dot edu](mailto: huynh6@stolaf.edu)
+You can also contact me at [huynh6 at stolaf dot edu](mailto:huynh6@stolaf.edu)
 ## Research Experience
 ## Publication
 ## Presentation
