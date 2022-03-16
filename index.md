@@ -16,7 +16,7 @@ Paul D. Humke, **Khang V. Huynh** \
 2. Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>\
 Paul D. Humke, **Khang V. Huynh**
 
-3. Cloud-powered PDC Computations For a Runestone Interactive Textbook
+3. Cloud-powered PDC Computations For a Runestone Interactive Textbook\
 Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 [Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing)
 
