@@ -17,7 +17,7 @@ Paul D. Humke, **Khang V. Huynh**
 
 * *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
 Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
-([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
+([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06))([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
 
 * *Computer Vision Application in Education*\
 **Khang V. Huynh**, Luke Malek
@@ -25,6 +25,10 @@ Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 * *Research on Multi Label Text Classification on Imbalanced Data*\
 **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
 
+__*Upcoming in Summer 2022*__
+Multi-Robot Communication and Exploration\
+Elizabeth A. Jensen, **Khang V. Huynh**\
+([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
 ## Publication
 
 ## Presentation
