@@ -17,7 +17,7 @@ Paul D. Humke, **Khang V. Huynh**
 
 * *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
 Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
-([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06))([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
+([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
 
 * *Computer Vision Application in Education*\
 **Khang V. Huynh**, Luke Malek
@@ -34,7 +34,7 @@ Elizabeth A. Jensen, **Khang V. Huynh**\
 ## Presentation
 *Finding Keys to the Peano Curve*, Mathematics on the Northern Plain, Minnesota, April 2021\
 **Khang V. Huynh**\
-[Slides](https://drive.google.com/file/d/1AVfwB14aqtYaxQc5NCaBlzK3A7W91rxW/view?usp=sharing)
+([Slides](https://drive.google.com/file/d/1AVfwB14aqtYaxQc5NCaBlzK3A7W91rxW/view?usp=sharing))
 ## Teaching Experience
 * CSCI 353: Analysis of Algorithm, Spring 2022\
 *Teaching assistant*
