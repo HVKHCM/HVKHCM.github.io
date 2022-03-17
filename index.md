@@ -10,7 +10,6 @@ Email: huynh6 at stolaf.edu
 ## Research Experience
 * *Finding Keys to the Peano Curve*\
 Paul D. Humke, **Khang V. Huynh** \
-([PDF](https://drive.google.com/file/d/10YWkhUI3fIC7bTLqm8lb4VqY-W4mV4Z5/view?usp=sharing))
 
 * *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
 Paul D. Humke, **Khang V. Huynh**
