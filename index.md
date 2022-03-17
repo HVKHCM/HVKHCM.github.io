@@ -8,21 +8,21 @@ Here are some additional documents: [CV](https://drive.google.com/file/d/1NNBnl8
 Email: huynh6 at stolaf.edu
 
 ## Research Experience
-*Finding Keys to the Peano Curve*\
+* *Finding Keys to the Peano Curve*\
 Paul D. Humke, **Khang V. Huynh** \
 [PDF](https://drive.google.com/file/d/10YWkhUI3fIC7bTLqm8lb4VqY-W4mV4Z5/view?usp=sharing)
 
-*Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
+* *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
 Paul D. Humke, **Khang V. Huynh**
 
-*Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
+* *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
 Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 [Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing)
 
-*Computer Vision Application in Education*\
+* *Computer Vision Application in Education*\
 **Khang V. Huynh**, Luke Malek
 
-*Research on Multi Label Text Classification on Imbalanced Data*\
+* *Research on Multi Label Text Classification on Imbalanced Data*\
 **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
 
 ## Publication
