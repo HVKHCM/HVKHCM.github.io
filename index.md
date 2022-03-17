@@ -25,7 +25,7 @@ Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 * *Research on Multi Label Text Classification on Imbalanced Data*\
 **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
 
-__*Upcoming in Summer 2022*__
+__*Upcoming in Summer 2022*__\
 Multi-Robot Communication and Exploration\
 Elizabeth A. Jensen, **Khang V. Huynh**\
 ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
