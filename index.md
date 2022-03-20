@@ -1,4 +1,4 @@
-[**Introduction**](#introduction) | [**Research Experience**](#research-experience) | [**Publication**](#publication) | [**Presentation**](#presentation) | [**Teaching Experience**](#teaching-experience)
+[**Introduction**](#introduction) | [**Research Experience**](#research-experience) | [**Publication**](#publication) | [**Presentation**](#presentation) | [**Class Project**](#class-project) | [**Teaching Experience**](#teaching-experience)
 # Welcome to my page
 ## Introduction
 Hello, my name is Khang Vo Huynh and I am a junior international student from Viet Nam. I am currently a student at St. Olaf College majoring in computer science and mathematics with a concentration in statistics and data science. My research interest areas include Artificial Intelligence, Robotics, and Applied Mathematics. At the same time, I am also in love with the application of these fields.
@@ -34,7 +34,7 @@ Multi-Robot Communication and Exploration\
 **Khang V. Huynh**\
 ([Slides](https://drive.google.com/file/d/1AVfwB14aqtYaxQc5NCaBlzK3A7W91rxW/view?usp=sharing))
 
-## Class major project
+## Class project
 * *Applications of Linear Algebra in Image Processing*\
   MATH320: Advance Linear Algebra\
   **Khang V. Huynh**, Soua Yang\
