@@ -40,9 +40,9 @@ Multi-Robot Communication and Exploration\
   **Khang V. Huynh**, Soua Yang\
   ([Paper](https://drive.google.com/file/d/1LfkyYpdMq90bfBEHLR0YqxEhi7RvKxhk/view?usp=sharing)) ([Slides](https://drive.google.com/file/d/1wZQYDLi3_V4485gH3jAcGZW2oKQr4zF-/view?usp=sharing))
 
-* *Bayesian Machine Learning on Email Spam Classification* 
-  CSCI300: Introduction to Artificial Intelligence
-  **Khang V. Huynh**, Tanaka Khondowe, Soua Yang
+* *Bayesian Machine Learning on Email Spam Classification* \
+  CSCI300: Introduction to Artificial Intelligence\
+  **Khang V. Huynh**, Tanaka Khondowe, Soua Yang\
   ([Paper](https://drive.google.com/file/d/1hQ_GdePtUjyvP1LzSo-GGcQDnrGF93HE/view?usp=sharing)) ([Slides](https://drive.google.com/file/d/1x5HMUDeUMgyqV4s9qrr0vfgeXCV7TnTG/view?usp=sharing))
 
 ## Teaching Experience
