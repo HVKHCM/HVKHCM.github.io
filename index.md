@@ -33,6 +33,12 @@ Multi-Robot Communication and Exploration\
 *Finding Keys to the Peano Curve*, Mathematics on the Northern Plain, Minnesota, April 2021\
 **Khang V. Huynh**\
 ([Slides](https://drive.google.com/file/d/1AVfwB14aqtYaxQc5NCaBlzK3A7W91rxW/view?usp=sharing))
+
+## Class major project
+* *Applications of Linear Algebra in Image Processing*\
+  MATH320: Advance Linear Algebra\
+  **Khang V. Huynh**, Soua Yang\
+  ([Paper](https://drive.google.com/file/d/1LfkyYpdMq90bfBEHLR0YqxEhi7RvKxhk/view?usp=sharing)) ([Slides](https://drive.google.com/file/d/1wZQYDLi3_V4485gH3jAcGZW2oKQr4zF-/view?usp=sharing))
 ## Teaching Experience
 * CSCI 353: Analysis of Algorithm, Spring 2022\
 *Teaching assistant*
