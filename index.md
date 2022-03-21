@@ -49,3 +49,5 @@ Multi-Robot Communication and Exploration\
 *Teaching assistant*
 * CSCI 241: Hardware Design, Fall 2021\
 *Teaching assistant*
+
+## Certification
