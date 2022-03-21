@@ -46,8 +46,10 @@ Multi-Robot Communication and Exploration\
 
 ## Teaching Experience
 * CSCI 353: Analysis of Algorithm, Spring 2022\
-*Teaching assistant*
+*Teaching assistant*\
+([Information](https://catalog.stolaf.edu/search/?P=CSCI%20353))
 * CSCI 241: Hardware Design, Fall 2021\
-*Teaching assistant*
+*Teaching assistant*\
+([Information](https://catalog.stolaf.edu/search/?P=CSCI%20241))
 
 ## Certification
