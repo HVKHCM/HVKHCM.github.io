@@ -8,7 +8,7 @@ Here are some additional documents: [CV](https://drive.google.com/file/d/1NNBnl8
 Email: huynh6 at stolaf.edu
 
 <details close>
-<summary>Research Experience</summary>
+<summary>## Research Experience</summary>
 <br>
 * *Finding Keys to the Peano Curve*\
 Paul D. Humke, **Khang V. Huynh**
