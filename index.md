@@ -7,15 +7,6 @@ Here are some additional documents: [CV](https://drive.google.com/file/d/1NNBnl8
 Email: huynh6 at stolaf.edu
 
 ## Research Experience
-* *Finding Keys to the Peano Curve*\
-Paul D. Humke, **Khang V. Huynh**
-
-* *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
-Paul D. Humke, **Khang V. Huynh**
-
-* *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
-Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
-([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
 
 * *Computer Vision Application in Education*\
 **Khang V. Huynh**, Luke Malek
@@ -23,9 +14,20 @@ Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 * *Research on Multi Label Text Classification on Imbalanced Data*\
 **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
 
+* *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
+Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
+([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
+
+* *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
+Paul D. Humke, **Khang V. Huynh**
+
+* *Finding Keys to the Peano Curve*\
+Paul D. Humke, **Khang V. Huynh**
+
 __*Upcoming in Summer 2022*__\
 Multi-Robot Communication and Exploration\
 ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
+
 ## Publication
 
 ## Presentation
