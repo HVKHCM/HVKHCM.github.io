@@ -1,4 +1,4 @@
-[**Introduction**](#introduction) | [**Research Experience**](#research-experience) | [**Publication**](#publication) | [**Presentation**](#presentation) | [**Class Project**](#class-project) | [**Teaching Experience**](#teaching-experience)
+[**Research Experience**](#research-experience) | [**Publication**](#publication) | [**Presentation**](#presentation) | [**Class Project**](#class-project) | [**Teaching Experience**](#teaching-experience) | [**Other technical jobs**](#other-technical-jobs)
 # Welcome to my page
 Hello, my name is Khang Vo Huynh and I am a junior international student from Viet Nam. I am currently a student at [St. Olaf College](https://wp.stolaf.edu/) majoring in computer science and mathematics with a concentration in statistics and data science. My research interest areas include Artificial Intelligence, Robotics, and Applied Mathematics. At the same time, I am also in love with the application of these fields.
 
@@ -54,3 +54,12 @@ Multi-Robot Communication and Exploration\
 ([Information](https://catalog.stolaf.edu/search/?P=CSCI%20241))
 
 ## Certification
+
+## Other technical jobs
+* *Lead System and IT Administrator*\
+  St. Olaf College\
+  Spring 2022
+  
+* *System and IT Administrator*\
+  St. Olaf College\
+  Fall 2021
