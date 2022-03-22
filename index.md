@@ -54,6 +54,14 @@ Multi-Robot Communication and Exploration\
 ([Information](https://catalog.stolaf.edu/search/?P=CSCI%20241))
 
 ## Certification
+* *Machine Learning*\
+  Coursera Platform\
+  Obtained: November 17, 2021\
+  ([Verification](https://coursera.org/share/323537d57103ab896850fbe64d230d9b))
+
+* *Specilization: Neural Network and Deep Learning*\ 
+  Coursera Platform\
+  In progress
 
 ## Other technical jobs
 * *Lead System and IT Administrator*\
