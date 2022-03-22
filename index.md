@@ -59,7 +59,7 @@ Multi-Robot Communication and Exploration\
   Obtained: November 17, 2021\
   ([Verification](https://coursera.org/share/323537d57103ab896850fbe64d230d9b))
 
-* *Specilization: Neural Network and Deep Learning*\ 
+* *Specilization: Neural Network and Deep Learning* \ 
   Coursera Platform\
   In progress
 
