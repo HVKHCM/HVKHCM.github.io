@@ -66,7 +66,8 @@ Multi-Robot Communication and Exploration\
 ## Other technical jobs
 * *Lead System and IT Administrator*\
   St. Olaf College\
-  Spring 2022
+  Spring 2022 \
+  haha
   
 * *System and IT Administrator*\
   St. Olaf College\
