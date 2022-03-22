@@ -54,7 +54,7 @@ Multi-Robot Communication and Exploration\
 ([Information](https://catalog.stolaf.edu/search/?P=CSCI%20241))
 
 ## Certification
-* *Neural Network and Deep Learning*\
+* *Specialization: Neural Network and Deep Learning*\
   Coursera Platform\
   In progress
 
