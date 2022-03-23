@@ -31,7 +31,7 @@ Multi-Robot Communication and Exploration\
 ## Publication
 
 *Finding Keys to Peano Curves*\
-Acte Mathematica Hungarica (AMH), __*accepted for publication*__\
+Acta Mathematica Hungarica (AMH), __*accepted for publication*__\
 Paul D. Humke, Khang V. Huynh
 
 ## Presentation
