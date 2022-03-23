@@ -15,7 +15,7 @@ Email: huynh6 at stolaf.edu
 **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
 
 * *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
-Program: Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
+Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
 Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
 ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
 
@@ -27,7 +27,7 @@ Paul D. Humke, **Khang V. Huynh**
 
 __*Upcoming in Summer 2022*__\
 Multi-Robot Communication and Exploration\
-Program: Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
+Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
 ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
 
 ## Publication
