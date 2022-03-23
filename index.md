@@ -32,7 +32,7 @@ Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
 
 ## Publication
 
-*Finding Keys to Peano Curves*\
+*Finding Keys to the Peano Curves*\
 Acta Mathematica Hungarica (AMH), __*accepted for publication*__\
 Paul D. Humke, **Khang V. Huynh**
 
