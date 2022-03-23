@@ -20,8 +20,13 @@ Email: huynh6 at stolaf.edu
 
 * *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
-  Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
+  **Khang V. Huynh**, Tanaka Khondowe, George Kokalas, Richard A. Brown\
   ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
+
+* *Self-organizing Raspberry Pi Cluster*\
+  Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
+  Tanaka Khondowe, George Kokalas, **Khang V. Huynh**, Richard A. Brown\
+  ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/1Dm46HcL0Ki7yPAvzIxFNR8QTXe-WI-lS/view?usp=sharing))
 
 * *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
   MATH 398: Independent Research\
