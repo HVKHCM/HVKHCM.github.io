@@ -11,21 +11,25 @@ Email: huynh6 at stolaf.edu
 ## Research Experience
 
 * *Computer Vision Application in Education*\
-**Khang V. Huynh**, Luke Malek
+  CSCI 390: Senior Capstone\
+  **Khang V. Huynh**, Luke Malek
 
 * *Research on Multi Label Text Classification on Imbalanced Data*\
-**Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
+  MSCS 390: Mathematics Practicum\
+  **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
 
 * *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
-Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
-Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
-([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
+  Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
+  Richard A. Brown, **Khang V. Huynh**, Tanaka Khondowe, George Kokalas\
+  ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
 
 * *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
-Paul D. Humke, **Khang V. Huynh**
+  MATH 398: Independent Research\
+  Paul D. Humke, **Khang V. Huynh**
 
 * *Finding Keys to the Peano Curve*\
-Paul D. Humke, **Khang V. Huynh**
+  MATH 398: Independent Research\
+  Paul D. Humke, **Khang V. Huynh**
 
 __*Upcoming in Summer 2022*__\
 Multi-Robot Communication and Exploration\
@@ -45,12 +49,12 @@ Paul D. Humke, **Khang V. Huynh**
 
 ## Class project
 * *Applications of Linear Algebra in Image Processing*\
-  MATH320: Advance Linear Algebra\
+  MATH 320: Advance Linear Algebra\
   **Khang V. Huynh**, Soua Yang\
   ([Paper](https://drive.google.com/file/d/1LfkyYpdMq90bfBEHLR0YqxEhi7RvKxhk/view?usp=sharing)) ([Slides](https://drive.google.com/file/d/1wZQYDLi3_V4485gH3jAcGZW2oKQr4zF-/view?usp=sharing))
 
 * *Bayesian Machine Learning on Email Spam Classification* \
-  CSCI300: Introduction to Artificial Intelligence\
+  CSCI 300: Introduction to Artificial Intelligence\
   **Khang V. Huynh**, Tanaka Khondowe, Soua Yang\
   ([Paper](https://drive.google.com/file/d/1hQ_GdePtUjyvP1LzSo-GGcQDnrGF93HE/view?usp=sharing)) ([Slides](https://drive.google.com/file/d/1x5HMUDeUMgyqV4s9qrr0vfgeXCV7TnTG/view?usp=sharing))
 
