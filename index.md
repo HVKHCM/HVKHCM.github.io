@@ -1,4 +1,4 @@
-[**Research Experience**](#research-experience) | [**Publication**](#publication) | [**Presentation**](#presentation) | [**Class Project**](#class-project) | [**Teaching Experience**](#teaching-experience) | [**Other technical jobs**](#other-technical-jobs)
+[**Research Experience**](#research-experience) | [**Publication**](#publication) | [**Presentation**](#presentation) | [**Class Project**](#class-project) | [**Teaching Experience**](#teaching-experience) | [**Services**](#services)
 # Welcome to my page
 Hello, my name is Khang Vo Huynh and I am a junior international student from Viet Nam. I am currently a student at [St. Olaf College](https://wp.stolaf.edu/) majoring in computer science and mathematics with a concentration in statistics and data science. In the past, I have contributed to research projects in multiple different fields at my home institution, including pure mathematics (result in a publication and possibly a second one), system/networking and cloud computing, artificial intelligence, computer vision, and robotics. My starting point was a student who is enthusiastic in pure mathematics but then leaning toward artificial intelligence and robotics research areas because I realize the potential and the use of these research.
 
@@ -77,7 +77,8 @@ Paul D. Humke, **Khang V. Huynh**
   Obtained: November 17, 2021\
   ([Verification](https://coursera.org/share/323537d57103ab896850fbe64d230d9b))
   
-## Other technical jobs
+## Services
+
 * *Lead System and IT Administrator*\
   St. Olaf College\
   Spring 2022
