@@ -1,6 +1,8 @@
 [**Research Experience**](#research-experience) | [**Publication**](#publication) | [**Presentation**](#presentation) | [**Class Project**](#class-project) | [**Teaching Experience**](#teaching-experience) | [**Other technical jobs**](#other-technical-jobs)
 # Welcome to my page
-Hello, my name is Khang Vo Huynh and I am a junior international student from Viet Nam. I am currently a student at [St. Olaf College](https://wp.stolaf.edu/) majoring in computer science and mathematics with a concentration in statistics and data science. My research interest areas include Artificial Intelligence, Robotics, and Applied Mathematics. At the same time, I am also in love with the application of these fields.
+Hello, my name is Khang Vo Huynh and I am a junior international student from Viet Nam. I am currently a student at [St. Olaf College](https://wp.stolaf.edu/) majoring in computer science and mathematics with a concentration in statistics and data science. In the past, I have contributed to research projects in multiple different fields at my home institution, including pure mathematics (result in a publication and possibly a second one), system/networking and cloud computing, artificial intelligence, computer vision, and robotics. My starting point was a student who is enthusiastic in pure mathematics but then leaning toward artificial intelligence and robotics research areas because I realize the potential and the use of these technology.
+
+My current research interest areas is a combination of mathematics, artificial intelligence and robotics and my goal is to earn a PhD in computer science, specialize in one of these areas or an intersection of them all.
 
 Here are some additional documents: [CV](https://drive.google.com/file/d/1NNBnl8Yg-nTZJ7d_OFaOqXjK8qzWjeaV/view?usp=sharing) / [LinkedIn](https://www.linkedin.com/in/khang-huynh-353242208/)
 
