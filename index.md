@@ -11,25 +11,34 @@ Email: huynh6 at stolaf.edu
 ## Research Experience
 I have contributed to research projects at St. Olaf College in different field of pure/applied mathematics and computer science. One of them resulted in a publication that you could find the information below and most of them resulted in a poster. Check it out below
 
-  ### Robotics
+### Robotics
   __*Upcoming in Summer 2022*__\
   Multi-Robot Communication and Exploration\
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
   ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
+
+### Pure/Applied Mathematics
+* *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
+  MATH 398: Independent Research\
+  Paul D. Humke, **Khang V. Huynh**
   
-  ### Natural Language Processing
-* *Research on Multi Label Text Classification on Imbalanced Data*\
+* *Finding Keys to the Peano Curve*\
+  MATH 398: Independent Research\
+  Paul D. Humke, **Khang V. Huynh**
+
+### Natural Language Processing
+ * *Research on Multi Label Text Classification on Imbalanced Data*\
   client: Medtronic
   MSCS 390: Mathematics Practicum\
   **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
   
-  ### Computer Vision
+### Computer Vision
 * *Computer Vision Application in Education*\
   CSCI 390: Senior Capstone\
   **Khang V. Huynh**, Luke Malek\
   ([Code](https://github.com/HVKHCM/Capstone---Computer-Vision))
   
-  ### System and Networking
+### System and Networking
 * *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
   **Khang V. Huynh**, Tanaka Khondowe, George Kokalas, Richard A. Brown\
@@ -42,14 +51,7 @@ I have contributed to research projects at St. Olaf College in different field o
   Grant: National Science Foundation under Grant Nos. DUE-1226172/1225739/1225796 (and formerly DUE-0941962 and 0942190)\
   ([Information](https://csinparallel.org/index.html)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/1Dm46HcL0Ki7yPAvzIxFNR8QTXe-WI-lS/view?usp=sharing))
 
-  ### Pure/Applied Mathematics
-* *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
-  MATH 398: Independent Research\
-  Paul D. Humke, **Khang V. Huynh**
-  
-* *Finding Keys to the Peano Curve*\
-  MATH 398: Independent Research\
-  Paul D. Humke, **Khang V. Huynh**
+
 
 ## Publication
 
