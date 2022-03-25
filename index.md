@@ -19,7 +19,7 @@ I have contributed to research projects at St. Olaf College in different field o
 
  
 
-  ### Pure/Applied Mathematics
+    ### Pure/Applied Mathematics
 * *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
   MATH 398: Independent Research\
   Paul D. Humke, **Khang V. Huynh**
