@@ -43,13 +43,13 @@ I have contributed to research projects at St. Olaf College in different field o
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
   **Khang V. Huynh**, Tanaka Khondowe, George Kokalas, Richard A. Brown\
   Grant: National Science Foundation under Grant Nos. DUE-1226172/1225739/1225796 (and formerly DUE-0941962 and 0942190)\
-  ([Information](https://csinparallel.org/index.html)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
+  ([Information](https://csinparallel.org/index.html)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://HVKHCM.github.io/folder/Kubernetes%2BCkubed%20poster.pdf))
 
 * *Self-organizing Raspberry Pi Cluster*\
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
   Tanaka Khondowe, George Kokalas, **Khang V. Huynh**, Richard A. Brown\
   Grant: National Science Foundation under Grant Nos. DUE-1226172/1225739/1225796 (and formerly DUE-0941962 and 0942190)\
-  ([Information](https://csinparallel.org/index.html)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/1Dm46HcL0Ki7yPAvzIxFNR8QTXe-WI-lS/view?usp=sharing))
+  ([Information](https://csinparallel.org/index.html)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://HVKHCM.github.io/folder/Tanaka%20Khondowe%2C%20KOKALAS%2C%20HUYNH%2C%20BROWN_CURI_2021_Poster.pptx.pdf))
 
 
 
@@ -68,12 +68,12 @@ Paul D. Humke, **Khang V. Huynh**
 * *Applications of Linear Algebra in Image Processing*\
   MATH 320: Advance Linear Algebra\
   **Khang V. Huynh**, Soua Yang\
-  ([Paper](https://drive.google.com/file/d/1LfkyYpdMq90bfBEHLR0YqxEhi7RvKxhk/view?usp=sharing)) ([Slides](https://drive.google.com/file/d/1wZQYDLi3_V4485gH3jAcGZW2oKQr4zF-/view?usp=sharing))
+  ([Paper](https://HVKHCM.github.io/folder/KhangSoua%20-%20Final%20Paper.pdf)) ([Slides](https://HVKHCM.github.io/folder/Math%20Final%20Project.pdf))
 
 * *Bayesian Machine Learning on Email Spam Classification* \
   CSCI 300: Introduction to Artificial Intelligence\
   **Khang V. Huynh**, Tanaka Khondowe, Soua Yang\
-  ([Paper](https://drive.google.com/file/d/1hQ_GdePtUjyvP1LzSo-GGcQDnrGF93HE/view?usp=sharing)) ([Slides](https://drive.google.com/file/d/1x5HMUDeUMgyqV4s9qrr0vfgeXCV7TnTG/view?usp=sharing))
+  ([Paper](https://HVKHCM.github.io/folder/Project_report_AAMAS_format.pdf)) ([Slides](https://HVKHCM.github.io/folder/AI%20Final%20Presentation_%20TanakaSouaKhang.pdf))
 
 # **Teaching Experience**
 * CSCI 353: Analysis of Algorithm, Spring 2022\
