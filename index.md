@@ -23,7 +23,7 @@ I have contributed to research projects at St. Olaf College in different field o
   MSCS 390: Mathematics Practicum\
   **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
   
- ### Computer Vision
+  ### Computer Vision
 * *Computer Vision Application in Education*\
   CSCI 390: Senior Capstone\
   **Khang V. Huynh**, Luke Malek\
