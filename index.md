@@ -9,25 +9,14 @@ Here are some additional documents: [CV](https://drive.google.com/file/d/1B6cncZ
 Email: huynh6 at stolaf.edu
 
 ## Research Experience
+I have contributed to research projects at St. Olaf College in different field of pure/applied mathematics and computer science. One of them resulted in a publication that you could find the information below and most of them resulted in a poster.
+### Robotics
+__*Upcoming in Summer 2022*__\
+Multi-Robot Communication and Exploration\
+Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
+([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
 
-* *Computer Vision Application in Education*\
-  CSCI 390: Senior Capstone\
-  **Khang V. Huynh**, Luke Malek
-
-* *Research on Multi Label Text Classification on Imbalanced Data*\
-  MSCS 390: Mathematics Practicum\
-  **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
-
-* *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
-  Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
-  **Khang V. Huynh**, Tanaka Khondowe, George Kokalas, Richard A. Brown\
-  ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
-
-* *Self-organizing Raspberry Pi Cluster*\
-  Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
-  Tanaka Khondowe, George Kokalas, **Khang V. Huynh**, Richard A. Brown\
-  ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/1Dm46HcL0Ki7yPAvzIxFNR8QTXe-WI-lS/view?usp=sharing))
-
+### Pure/Applied Mathematics
 * *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
   MATH 398: Independent Research\
   Paul D. Humke, **Khang V. Huynh**
@@ -36,10 +25,31 @@ Email: huynh6 at stolaf.edu
   MATH 398: Independent Research\
   Paul D. Humke, **Khang V. Huynh**
 
-__*Upcoming in Summer 2022*__\
-Multi-Robot Communication and Exploration\
-Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
-([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
+### Computer Vision
+* *Computer Vision Application in Education*\
+  CSCI 390: Senior Capstone\
+  **Khang V. Huynh**, Luke Malek\
+  ([Code](https://github.com/HVKHCM/Capstone---Computer-Vision))
+ 
+### Natural Language Processing
+* *Research on Multi Label Text Classification on Imbalanced Data*\
+  client: Medtronic
+  MSCS 390: Mathematics Practicum\
+  **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
+ 
+### System and Networking
+* *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
+  Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
+  **Khang V. Huynh**, Tanaka Khondowe, George Kokalas, Richard A. Brown\
+  Grant: National Science Foundation under Grant Nos. DUE-1226172/1225739/1225796 (and formerly DUE-0941962 and 0942190)\
+  ([Information](https://csinparallel.org/index.html)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/19arcomdtDDk4H6S1DHZYdBfqwAxL57OR/view?usp=sharing))
+
+* *Self-organizing Raspberry Pi Cluster*\
+  Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
+  Tanaka Khondowe, George Kokalas, **Khang V. Huynh**, Richard A. Brown\
+  Grant: National Science Foundation under Grant Nos. DUE-1226172/1225739/1225796 (and formerly DUE-0941962 and 0942190)\
+  ([Information](https://csinparallel.org/index.html)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/1Dm46HcL0Ki7yPAvzIxFNR8QTXe-WI-lS/view?usp=sharing))
+
 
 ## Publication
 
