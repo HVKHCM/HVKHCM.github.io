@@ -4,7 +4,7 @@ Hello, my name is Khang Vo Huynh and I am a junior international student from Vi
 
 My current research interest areas is a combination of mathematics, artificial intelligence and robotics and my goal is to earn a PhD in computer science, specialize in one of these areas or an intersection of them all. I want to design algorithm that enables intelligent system and robots to be capable of solving real-world problem.
 
-Here are some additional documents: [CV](https://hvkhcm.github.io/folder/Profile-picture.jgp) / [LinkedIn](https://www.linkedin.com/in/khang-huynh-353242208/)
+Here are some additional documents: [CV](https://hvkhcm.github.io/folder/Khang%20Vo%20Huynh%20-%20CV.pdf) / [LinkedIn](https://www.linkedin.com/in/khang-huynh-353242208/)
 
 Email: huynh6 at stolaf.edu
 
