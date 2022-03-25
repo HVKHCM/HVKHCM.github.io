@@ -8,7 +8,7 @@ Here are some additional documents: [CV](https://drive.google.com/file/d/1B6cncZ
 
 Email: huynh6 at stolaf.edu
 
-## Research Experience
+## **Research Experience**
 I have contributed to research projects at St. Olaf College in different field of pure/applied mathematics and computer science. One of them resulted in a publication that you could find the information below and most of them resulted in a poster. Check it out below
 
 ### Robotics
@@ -28,7 +28,7 @@ I have contributed to research projects at St. Olaf College in different field o
 
 ### Natural Language Processing
  * *Research on Multi Label Text Classification on Imbalanced Data*\
-  client: Medtronic
+  Client: Medtronic\
   MSCS 390: Mathematics Practicum\
   **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
   
@@ -53,18 +53,18 @@ I have contributed to research projects at St. Olaf College in different field o
 
 
 
-## Publication
+## **Publication**
 
 *Finding Keys to the Peano Curves*\
 Acta Mathematica Hungarica (AMH), __*accepted for publication*__\
 Paul D. Humke, **Khang V. Huynh**
 
-## Presentation
+## **Presentation**
 *Finding Keys to the Peano Curve*, Mathematics on the Northern Plain, Minnesota, April 2021\
 **Khang V. Huynh**\
 ([Slides](https://drive.google.com/file/d/1AVfwB14aqtYaxQc5NCaBlzK3A7W91rxW/view?usp=sharing))
 
-## Class project
+## **Class project**
 * *Applications of Linear Algebra in Image Processing*\
   MATH 320: Advance Linear Algebra\
   **Khang V. Huynh**, Soua Yang\
@@ -75,7 +75,7 @@ Paul D. Humke, **Khang V. Huynh**
   **Khang V. Huynh**, Tanaka Khondowe, Soua Yang\
   ([Paper](https://drive.google.com/file/d/1hQ_GdePtUjyvP1LzSo-GGcQDnrGF93HE/view?usp=sharing)) ([Slides](https://drive.google.com/file/d/1x5HMUDeUMgyqV4s9qrr0vfgeXCV7TnTG/view?usp=sharing))
 
-## Teaching Experience
+## **Teaching Experience**
 * CSCI 353: Analysis of Algorithm, Spring 2022\
 *Teaching assistant*\
 ([Information](https://catalog.stolaf.edu/search/?P=CSCI%20353))
@@ -84,7 +84,7 @@ Paul D. Humke, **Khang V. Huynh**
 *Teaching assistant*\
 ([Information](https://catalog.stolaf.edu/search/?P=CSCI%20241))
 
-## Certification
+## **Certification**
 * *Specialization: Neural Network and Deep Learning*\
   Coursera Platform\
   In progress
@@ -94,7 +94,7 @@ Paul D. Humke, **Khang V. Huynh**
   Obtained: November 17, 2021\
   ([Verification](https://coursera.org/share/323537d57103ab896850fbe64d230d9b))
   
-## Services
+## **Services**
 
 * *Lead System and IT Administrator*\
   St. Olaf College\
