@@ -16,16 +16,19 @@ I have contributed to research projects at St. Olaf College in different field o
   Multi-Robot Communication and Exploration\
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
   ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
+  
   ### Natural Language Processing
 * *Research on Multi Label Text Classification on Imbalanced Data*\
   client: Medtronic
   MSCS 390: Mathematics Practicum\
   **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
+  
  ### Computer Vision
 * *Computer Vision Application in Education*\
   CSCI 390: Senior Capstone\
   **Khang V. Huynh**, Luke Malek\
   ([Code](https://github.com/HVKHCM/Capstone---Computer-Vision))
+  
   ### System and Networking
 * *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
@@ -38,7 +41,6 @@ I have contributed to research projects at St. Olaf College in different field o
   Tanaka Khondowe, George Kokalas, **Khang V. Huynh**, Richard A. Brown\
   Grant: National Science Foundation under Grant Nos. DUE-1226172/1225739/1225796 (and formerly DUE-0941962 and 0942190)\
   ([Information](https://csinparallel.org/index.html)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/1Dm46HcL0Ki7yPAvzIxFNR8QTXe-WI-lS/view?usp=sharing))
-
 
   ### Pure/Applied Mathematics
 * *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
