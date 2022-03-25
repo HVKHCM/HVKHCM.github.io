@@ -10,13 +10,13 @@ Email: huynh6 at stolaf.edu
 
 ## Research Experience
 I have contributed to research projects at St. Olaf College in different field of pure/applied mathematics and computer science. One of them resulted in a publication that you could find the information below and most of them resulted in a poster.
-### Robotics
+  ### Robotics
 __*Upcoming in Summer 2022*__\
 Multi-Robot Communication and Exploration\
 Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
 ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
 
-### Pure/Applied Mathematics
+  ### Pure/Applied Mathematics
 * *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
   MATH 398: Independent Research\
   Paul D. Humke, **Khang V. Huynh**
@@ -25,19 +25,19 @@ Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
   MATH 398: Independent Research\
   Paul D. Humke, **Khang V. Huynh**
 
-### Computer Vision
+  ### Computer Vision
 * *Computer Vision Application in Education*\
   CSCI 390: Senior Capstone\
   **Khang V. Huynh**, Luke Malek\
   ([Code](https://github.com/HVKHCM/Capstone---Computer-Vision))
  
-### Natural Language Processing
+  ### Natural Language Processing
 * *Research on Multi Label Text Classification on Imbalanced Data*\
   client: Medtronic
   MSCS 390: Mathematics Practicum\
   **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
  
-### System and Networking
+  ### System and Networking
 * *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
   **Khang V. Huynh**, Tanaka Khondowe, George Kokalas, Richard A. Brown\
