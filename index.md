@@ -11,11 +11,11 @@ Email: huynh6 at stolaf.edu
 ## Research Experience
 I have contributed to research projects at St. Olaf College in different field of pure/applied mathematics and computer science. One of them resulted in a publication that you could find the information below and most of them resulted in a poster.
   
-  ###Robotics
-__*Upcoming in Summer 2022*__\
-Multi-Robot Communication and Exploration\
-Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
-([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
+  ### Robotics
+  __*Upcoming in Summer 2022*__\
+  Multi-Robot Communication and Exploration\
+  Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
+  ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
 
  
  ### Pure/Applied Mathematics
