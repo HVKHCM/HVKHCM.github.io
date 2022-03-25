@@ -16,19 +16,16 @@ I have contributed to research projects at St. Olaf College in different field o
   Multi-Robot Communication and Exploration\
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
   ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
-
-  ### Computer Vision
-* *Computer Vision Application in Education*\
-  CSCI 390: Senior Capstone\
-  **Khang V. Huynh**, Luke Malek\
-  ([Code](https://github.com/HVKHCM/Capstone---Computer-Vision))
- 
   ### Natural Language Processing
 * *Research on Multi Label Text Classification on Imbalanced Data*\
   client: Medtronic
   MSCS 390: Mathematics Practicum\
   **Khang V. Huynh**, Matthew Myers, Claire Wu, Lars Askegaard
- 
+ ### Computer Vision
+* *Computer Vision Application in Education*\
+  CSCI 390: Senior Capstone\
+  **Khang V. Huynh**, Luke Malek\
+  ([Code](https://github.com/HVKHCM/Capstone---Computer-Vision))
   ### System and Networking
 * *Cloud-powered PDC Computations For a Runestone Interactive Textbook*\
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
