@@ -4,7 +4,7 @@ Hello, my name is Khang Vo Huynh and I am a junior international student from Vi
 
 My current research interest areas is a combination of mathematics, artificial intelligence and robotics and my goal is to earn a PhD in computer science, specialize in one of these areas or an intersection of them all. I want to design algorithm that enables intelligent system and robots to be capable of solving real-world problem.
 
-Here are some additional documents: [CV](HVKHCM.github.io/folder/Profile-picture.jgp) / [LinkedIn](https://www.linkedin.com/in/khang-huynh-353242208/)
+Here are some additional documents: [CV](https://hvkhcm.github.io/folder/Profile-picture.jgp) / [LinkedIn](https://www.linkedin.com/in/khang-huynh-353242208/)
 
 Email: huynh6 at stolaf.edu
 
@@ -62,7 +62,7 @@ Paul D. Humke, **Khang V. Huynh**
 # **Presentation**
 *Finding Keys to the Peano Curve*, Mathematics on the Northern Plain, Minnesota, April 2021\
 **Khang V. Huynh**\
-([Slides](hvkhcm.github.io/folder/MNP-presentation.pdf))
+([Slides](https://hvkhcm.github.io/folder/MNP-presentation.pdf))
 
 # **Class project**
 * *Applications of Linear Algebra in Image Processing*\
