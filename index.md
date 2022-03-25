@@ -10,7 +10,7 @@ Email: huynh6 at stolaf.edu
 
 ## Research Experience
 I have contributed to research projects at St. Olaf College in different field of pure/applied mathematics and computer science. One of them resulted in a publication that you could find the information below and most of them resulted in a poster.
-  
+
   ### Robotics
   __*Upcoming in Summer 2022*__\
   Multi-Robot Communication and Exploration\
