@@ -17,15 +17,6 @@ I have contributed to research projects at St. Olaf College in different field o
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
   ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
 
-  ### Pure/Applied Mathematics
-* *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
-  MATH 398: Independent Research\
-  Paul D. Humke, **Khang V. Huynh**
-  
-* *Finding Keys to the Peano Curve*\
-  MATH 398: Independent Research\
-  Paul D. Humke, **Khang V. Huynh**
-
   ### Computer Vision
 * *Computer Vision Application in Education*\
   CSCI 390: Senior Capstone\
@@ -51,6 +42,15 @@ I have contributed to research projects at St. Olaf College in different field o
   Grant: National Science Foundation under Grant Nos. DUE-1226172/1225739/1225796 (and formerly DUE-0941962 and 0942190)\
   ([Information](https://csinparallel.org/index.html)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/6026af23a888b219bd7dff06)) ([Poster](https://drive.google.com/file/d/1Dm46HcL0Ki7yPAvzIxFNR8QTXe-WI-lS/view?usp=sharing))
 
+
+  ### Pure/Applied Mathematics
+* *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
+  MATH 398: Independent Research\
+  Paul D. Humke, **Khang V. Huynh**
+  
+* *Finding Keys to the Peano Curve*\
+  MATH 398: Independent Research\
+  Paul D. Humke, **Khang V. Huynh**
 
 ## Publication
 
