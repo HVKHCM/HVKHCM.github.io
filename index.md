@@ -98,11 +98,11 @@ Platform | Specialization | Course | Grade | Obtained date | Verification
 -------- | -------------- | ------ | ----- | ------------- | ------------
 Coursera | None | Machine Learning | 95.8% | 11/17/2021 | [Link](https://coursera.org/share/323537d57103ab896850fbe64d230d9b)
 Coursera | Robotics - UPenn Engineering | Aerial Robotics | In progress | In progress | In progress
- | | Robotics - Computational Motion Planning | In progress | In progress | In progress
- | | Robotics - Mobility | In progress | In progress | In progress 
- | | Robotics - Perception | In progress | In progress | In progress
- | | Robotics - Estimation and Learning | In progress | In progress | In progress
- | | Robotics - Capstone Project | In progress | In progress | In progress
+ |  | Robotics - Computational Motion Planning | In progress | In progress | In progress
+ |  | Robotics - Mobility | In progress | In progress | In progress 
+ |  | Robotics - Perception | In progress | In progress | In progress
+ |  | Robotics - Estimation and Learning | In progress | In progress | In progress
+ |  | Robotics - Capstone Project | In progress | In progress | In progress
 
 
 # **Services**
