@@ -85,15 +85,7 @@ Paul D. Humke, **Khang V. Huynh**
 ([Information](https://catalog.stolaf.edu/search/?P=CSCI%20241))
 
 # **Certification**
-* *Specialization: Neural Network and Deep Learning*\
-  Coursera Platform\
-  In progress
 
-* *Machine Learning*\
-  Coursera Platform\
-  Obtained: November 17, 2021\
-  ([Verification](https://coursera.org/share/323537d57103ab896850fbe64d230d9b))
-  
 Platform | Specialization | Course | Grade | Obtained date | Verification
 -------- | -------------- | ------ | ----- | ------------- | ------------
 Coursera | None | Machine Learning | 95.19% | 11/17/2021 | [Link](https://coursera.org/share/323537d57103ab896850fbe64d230d9b)
