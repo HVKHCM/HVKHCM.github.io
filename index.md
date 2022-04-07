@@ -1,4 +1,4 @@
-# Welcome to Khang Huynh portfolio
+# Welcome to Khang V. Huynh portfolio
 Quick Link:
 * [Introduction](#introduction)
 * [Research](#research-experience)
