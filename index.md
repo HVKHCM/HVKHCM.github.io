@@ -19,7 +19,7 @@ Here are some additional documents: [CV](https://hvkhcm.github.io/folder/Khang%2
 Email: huynh6 at stolaf.edu
 
 # **Research Experience**
-I have contributed to research projects at St. Olaf College in different fields, including robotics, pure/applied mathematics, computer vision, natural language processing, and system/networking. For poster presentation, the information could be found below each research projects if applicable. For information about publication and presentation, please check these out in the (Publication)[#publication] and (Presentation)[#presentation] sections below.
+I have contributed to research projects at St. Olaf College in different fields, including robotics, pure/applied mathematics, computer vision, natural language processing, and system/networking. For poster presentation, the information could be found below each research projects if applicable. For information about publication and presentation, please check these out in the [Publication](#publication) and [Presentation](#presentation) sections below.
 
 ### Robotics
   __*Upcoming in Summer 2022*__\
