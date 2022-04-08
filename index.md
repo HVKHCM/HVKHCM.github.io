@@ -19,7 +19,7 @@ Here are some additional documents: [CV](https://hvkhcm.github.io/folder/Khang%2
 Email: huynh6 at stolaf.edu
 
 # **Research Experience**
-I have contributed to research projects at St. Olaf College in different fields, including robotics, pure/applied mathematics, computer vision, natural language processing, and system/networking. For poster presentation, the information could be found below each research projects if applicable. For information about publication and presentation, please check these out in the [Publication](#publication) and [Presentation](#presentation) sections below.
+I have contributed to research projects at St. Olaf College in different fields, including robotics, pure mathematics, computer vision, natural language processing, and system/networking. For poster presentation, the information could be found below each research projects if applicable. For information about publication and presentation, please check these out in the [Publication](#publication) and [Presentation](#presentation) sections below.
 
 ### Robotics
   __*Upcoming in Summer 2022*__\
@@ -27,7 +27,7 @@ I have contributed to research projects at St. Olaf College in different fields,
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
   ([Program](https://wp.stolaf.edu/curi/)) ([Webpage](https://elevator.stolaf.edu/curi/asset/viewAsset/61dca1e7494fb65fd5148935))
 
-### Pure/Applied Mathematics
+### Pure Mathematics
 * *Generalized Klein-4 Groups Generate Peano Curves in R<sup>n</sup>*\
   MATH 398: Independent Research\
   Paul D. Humke, **Khang V. Huynh**
