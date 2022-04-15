@@ -22,6 +22,10 @@ Email: huynh6 at stolaf.edu
 I have contributed to research projects at St. Olaf College in different fields, including robotics, pure mathematics, computer vision, natural language processing, and system/networking. For poster presentation, the information could be found below each research projects if applicable. For information about publication and presentation, please check these out in the [Publication](#publication) and [Presentation](#presentation) sections below.
 
 ### Robotics
+  __*Upcoming in Fall 2022*__\
+  Center for Interdisciplanary Research (CIR) Fellowship\
+  ([Program](https://wp.stolaf.edu/cir/))
+  
   __*Upcoming in Summer 2022*__\
   Multi-Robot Communication and Exploration\
   Collaborative Undergraduate Research and Inquiry (CURI) - St. Olaf College\
