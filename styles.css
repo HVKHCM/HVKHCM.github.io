@@ -62,7 +62,6 @@ body {
     margin-top: 1vh;
     margin-left: .5vw;
     margin-right: .5vw;
-    margin-bottom: 1vw;
 }
 
 .portfolio-img-background{
@@ -83,11 +82,10 @@ body {
 
 .image-text-1{
     position: absolute;
-    top: 0;
     display: flex;
     flex-direction: column;
-    top: 200px;
-    left: 50px;
+    top: 0px;
+    left: 80px;
     margin-right: 100px;
     align-items: center;
     height: 100%;
@@ -96,7 +94,7 @@ body {
 
 .logo-wrapper-1 img{
     width: 50%;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .image-text-1 .subtitle-1{
@@ -115,11 +113,10 @@ body {
 /* Break */
 .image-text-2{
     position: absolute;
-    top: 0;
     display: flex;
     flex-direction: column;
-    top: 200px;
-    left: 100px;
+    top: 0px;
+    left: 120px;
     margin-right: 100px;
     align-items: center;
     height: 100%;
@@ -147,14 +144,13 @@ body {
 /*Break*/
 .image-text-3{
     position: absolute;
-    top: 0;
     display: flex;
     flex-direction: column;
     margin-right: 100px;
     align-items: center;
     height: 100%;
     text-align: center;
-    top: 200px;
+    top: 0px;
     left: 150px;
 }
 
@@ -179,14 +175,13 @@ body {
 /* Break */
 .image-text-4{
     position: absolute;
-    top: 0;
     display: flex;
     flex-direction: column;
     margin-right: 100px;
     align-items: center;
     height: 100%;
     text-align: center;
-    top: 200px;
+    top: 0px;
     left: 150px;
 }
 
