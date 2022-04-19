@@ -54,7 +54,7 @@ body {
 .portfolio-items{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    background-color: #32a8a8;
+    background-color: orange;
 }
 
 .portfolio-item{
@@ -106,6 +106,8 @@ body {
     font-size: 20px;
     transition: 1s;
     color: transparent;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .image-text-1:hover .subtitle-1{
@@ -141,6 +143,7 @@ body {
     font-size: 20px;
     transition: 1s;
     color: transparent;
+    padding-left: 20px;
 }
 
 .image-text-2:hover .subtitle-2{
@@ -175,6 +178,7 @@ body {
     font-size: 20px;
     transition: 1s;
     color: transparent;
+    padding-left: 20px;
 }
 
 .image-text-3:hover .subtitle-3{
@@ -209,10 +213,12 @@ body {
     font-size: 20px;
     transition: 1s;
     color: transparent;
+    padding-left: 20px;
 }
 
 .image-text-4:hover .subtitle-4{
     font-weight: 600;
+    font-size: 20px;
     color: #eff542;
     padding-left: 20px;
 }

@@ -98,7 +98,7 @@ body {
     padding-right: 0px;
 }
 
-.logo-wrapper img{
+/* .logo-wrapper img{
     width: 50%;
     margin-bottom: 20px;
 }
@@ -106,30 +106,118 @@ body {
 .logo-wrapper-1 img{
     width: 80%;
     margin-bottom: 20px;
-}
-
-.image-text .subtitle{
+} */
+.image-text .subtitle-peano{
     font-weight: 600;
-    font-size: 20px;
+    font-size: 30px;
     transition: 1s;
     color: transparent;
+    padding-left: 20px;
+    padding-top: 35%;
 }
 
-.image-text:hover .subtitle{
+.image-text:hover .subtitle-peano{
     font-weight: 600;
     color: #eff542;
+    padding-top: 35%;
 }
 
-.image-text .subtitle-1{
+.image-text .subtitle-fill{
     font-weight: 600;
-    font-size: 15px;
+    font-size: 30px;
     transition: 1s;
     color: transparent;
+    padding-left: 80px;
+    padding-right: 0;
+    padding-top: 40%;
 }
 
-.image-text:hover .subtitle-1{
+.image-text:hover .subtitle-fill{
     font-weight: 600;
     color: #eff542;
+    padding-left: 80px;
+    padding-right: 0;
+    padding-top: 40%;
+}
+
+.image-text .subtitle-robot{
+    font-weight: 600;
+    font-size: 30px;
+    transition: 1s;
+    color: transparent;
+    padding-left: 0px;
+    padding-top: 30%;
+}
+
+.image-text:hover .subtitle-robot{
+    font-weight: 600;
+    color: #eff542;
+    padding-left: 0px;
+    padding-top: 30%;
+}
+
+.image-text .subtitle-rab1{
+    font-weight: 600;
+    font-size: 30px;
+    transition: 1s;
+    color: transparent;
+    padding-left: 0px;
+    padding-top: 30%;
+}
+
+.image-text:hover .subtitle-rab1{
+    font-weight: 600;
+    color: #eff542;
+    padding-left: 0px;
+    padding-top: 30%;
+}
+
+.image-text .subtitle-rab2{
+    font-weight: 600;
+    font-size: 30px;
+    transition: 1s;
+    color: transparent;
+    padding-left: 12px;
+    padding-top: 30%;
+}
+
+.image-text:hover .subtitle-rab2{
+    font-weight: 600;
+    color: #eff542;
+    padding-left: 12px;
+    padding-top: 30%;
+}
+
+.image-text .subtitle-cir{
+    font-weight: 600;
+    font-size: 30px;
+    transition: 1s;
+    color: transparent;
+    padding-left: 8px;
+    padding-top: 30%;
+}
+
+.image-text:hover .subtitle-cir{
+    font-weight: 600;
+    color: #eff542;
+    padding-left: 8px;
+    padding-top: 30%;
+}
+
+.image-text .subtitle-capstone{
+    font-weight: 600;
+    font-size: 30px;
+    transition: 1s;
+    color: transparent;
+    padding-left: 8px;
+    padding-top: 30%;
+}
+
+.image-text:hover .subtitle-capstone{
+    font-weight: 600;
+    color: #eff542;
+    padding-left: 8px;
+    padding-top: 30%;
 }
 
 .img-blur {
