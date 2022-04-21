@@ -63,7 +63,7 @@ body {
 .portfolio-items{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    background-color: #f0f8ff;
+    background-color: orange;
 }
 
 .portfolio-item{

@@ -1,0 +1,121 @@
+/*Master style*/
+body {
+    margin: 0px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+/* Navigation style */
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.left-side{
+    display: flex;
+}
+
+.navigation > .left-side > div {
+    margin-right: 28px;
+    font-size: 1.5em;
+}
+
+.navigation-link{
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+
+.navigation-link a {
+    color: #8a8a8a;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.navigation-link:hover {
+    border-bottom: 1px solid black;
+}
+
+.navigation-link a:hover {
+    color: black;
+}
+
+.NameTag{
+    font-size: 1.5em;
+    color: black;
+    font-family: 'Brush Script MT', cursive;
+}
+
+/* Portfolio style */
+
+.portfolio-items{
+    display: grid;
+    grid-template-columns: 0.3fr 0.01fr 1fr;
+    background-color: white;
+}
+
+.portfolio-item{
+    position: relative;
+    margin-top: 1vh;
+    margin-left: .5vw;
+    margin-right: .5vw;
+    margin-bottom: 1vh;
+    background-repeat: no-repeat;
+}
+
+.line {
+    border-left: 5px solid orange;
+    height: 500px;
+  }
+
+.container-for-rx{
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.navigation-for-rx{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-side-for-rx{
+    display: flex;
+}
+
+.navigation-for-rx > .left-side-for-rx > div {
+    font-size: 20px;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+.navigation-link-for-rx{
+    height: 22px;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.5s;
+}
+
+.navigation-link-for-rx a {
+    color: blue;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.navigation-link-for-rx:hover {
+    border-bottom: 1px solid black;
+}
+
+.navigation-link-for-rx a:hover {
+    color: black;
+}
+
+.portfolio-img-background{
+    height: 450px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
