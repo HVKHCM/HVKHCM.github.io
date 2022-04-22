@@ -127,16 +127,19 @@ body {
     font-size: 30px;
     transition: 1s;
     color: transparent;
-    padding-left: 80px;
-    padding-right: 0;
+/*     padding-left: 80px; */
+    padding: 50%;
+/*     padding-right: 0; */
     padding-top: 40%;
 }
 
 .image-text:hover .subtitle-fill{
     font-weight: 600;
     color: #eff542;
-    padding-left: 80px;
-    padding-right: 0;
+/*     padding-left: 80px; */
+    text-align: center;
+    padding: 50%;
+/*     padding-right: 0; */
     padding-top: 40%;
 }
 
