@@ -152,8 +152,8 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #ffffff;
-		color: #000000;
+		background-color: #F3FFFF;
+		color: #A52A2A;
 	}
 
 	body, input, select, textarea {
@@ -2189,6 +2189,7 @@ input, select, textarea {
 		background-color: transparent;
 		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
 		color: #000000 !important;
+		background-position: right bottom;
 	}
 
 		input[type="submit"]:hover,
@@ -2197,7 +2198,11 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			box-shadow: inset 0 0 0 1px #47D3E5;
-			color: #47D3E5 !important;
+			background: linear-gradient(to left, #F3FFFF 50%, #A52A2A 50%);
+			background-size: 200% 100%;
+    		background-position: left bottom;
+    		transition: all 2s ease;
+			color: white !important;
 		}
 
 		input[type="submit"]:active,
