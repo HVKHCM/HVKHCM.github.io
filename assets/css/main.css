@@ -100,6 +100,9 @@ input, select, textarea {
 
 	body {
 		background: #ffffff;
+		background-image: url("../../images/background5.jpeg");
+		background-size: cover;
+		background-attachment: fixed;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -152,8 +155,8 @@ input, select, textarea {
 		}
 
 	body {
-		background-color: #F3FFFF;
-		color: #A52A2A;
+		background-color: transparent;
+		color: white;
 	}
 
 	body, input, select, textarea {
@@ -196,6 +199,7 @@ input, select, textarea {
 		line-height: 1.375;
 		letter-spacing: -0.05em;
 		margin: 0 0 1rem 0;
+		color: white;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -206,6 +210,7 @@ input, select, textarea {
 	h1 {
 		font-size: 3.5rem;
 		line-height: 1.2;
+		color: white;
 	}
 
 	h2 {
@@ -332,7 +337,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: white;
 	}
 
 	blockquote {
@@ -2187,8 +2192,8 @@ input, select, textarea {
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
-		color: #000000 !important;
+		box-shadow: inset 0 0 0 1px white;
+		color: white !important;
 		background-position: right bottom;
 	}
 
@@ -2198,7 +2203,7 @@ input, select, textarea {
 		button:hover,
 		.button:hover {
 			box-shadow: inset 0 0 0 1px #47D3E5;
-			background: linear-gradient(to left, #F3FFFF 50%, #A52A2A 50%);
+			background: linear-gradient(to left, transparent 50%, #A52A2A 50%);
 			background-size: 200% 100%;
     		background-position: left bottom;
     		transition: all 2s ease;
@@ -2479,7 +2484,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #000000;
+		color: white;
 	}
 
 	input[type="text"],
@@ -2589,6 +2594,7 @@ input, select, textarea {
 
 		.icon.brands:before {
 			font-family: 'Font Awesome 5 Brands';
+			color: white;
 		}
 
 		.icon.style2:before {
@@ -2616,18 +2622,18 @@ input, select, textarea {
 	}
 
 	.icon.style2:before {
-		box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.2);
+		box-shadow: inset 0 0 0 1px white;
 	}
 
 	a.icon.style2:hover:before {
-		box-shadow: inset 0 0 0 1px #47D3E5;
-		color: #47D3E5;
+		box-shadow: inset 0 0 0 1px #A52A2A;
+		color: #A52A2A ;
 	}
 
 	a.icon.style2:active:before {
 		background-color: rgba(71, 211, 229, 0.1);
-		box-shadow: inset 0 0 0 1px #47D3E5;
-		color: #47D3E5;
+		box-shadow: inset 0 0 0 1px #A52A2A;
+		color: #A52A2A;
 	}
 
 /* Image */
@@ -6506,6 +6512,7 @@ input, select, textarea {
 					display: block;
 					width: 100%;
 					border-radius: 0;
+					background-size: cover;
 				}
 
 			.gallery.style1 article .caption {
@@ -6700,6 +6707,7 @@ input, select, textarea {
 		-webkit-overflow-scrolling: touch;
 		position: relative;
 		background-color: transparent;
+		background-size: cover;
 	}
 
 		.gallery.style2 input, .gallery.style2 select, .gallery.style2 textarea {
@@ -6880,13 +6888,17 @@ input, select, textarea {
 			.gallery.style2 article .image {
 				display: block;
 				width: 100%;
+				background-size: cover;
 				border-radius: 0;
+				background-size: cover;
 			}
 
 				.gallery.style2 article .image img {
 					display: block;
 					width: 100%;
+					height: 300px;
 					border-radius: 0;
+					background-size: cover;
 				}
 
 			.gallery.style2 article .caption {
